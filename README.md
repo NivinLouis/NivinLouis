@@ -160,6 +160,96 @@ A forked and extended TypeScript project focused on team or task stride manageme
 
 ---
 
+### 📱 OpenQR
+**Privacy-First QR Code Generator**
+
+The QR code generator that actually respects you. Zero redirects, zero tracking, zero expiry — your link goes straight into the code. Features custom logo embedding, dot styles, corner radius control, built-in scanner, and PNG/SVG/JPG export. Glassmorphic UI, fully open-source.
+
+`Next.js` `TypeScript` `Tailwind CSS` `Vercel`
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NivinLouis/openqr)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://openqr.vercel.app)
+
+---
+
+### 🎓 SimplyCert
+**Free Bulk E-Certificate Generator**
+
+Tired of stamping 200 names one by one? Upload your own certificate design (Canva, Photoshop, anything), drop in a CSV, draw the name zone, pick a font — and get a ZIP of individual PDFs in seconds. 100% client-side, no signup, no watermarks.
+
+`Next.js` `TypeScript` `Fabric.js` `pdf-lib` `Tailwind CSS`
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NivinLouis/SimplyCert)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://simplycert.vercel.app)
+
+---
+
+### 🏥 Unbound Yodha — ICU Neuro-Monitor
+**AI-Powered ICU Delirium Detection · 🏆 5th Place — YODHA Warriors of AI Hackathon, Jan 2026**
+
+Turns standard CCTV feeds into an intelligent ICU delirium monitor — no wires, no patient contact. Real-time posture & fall risk detection, optical flow for restlessness under blankets, face blurring for privacy, noise/light environment tracking, and a nurse-desk dashboard for monitoring multiple patients simultaneously.
+
+`Python` `Flask` `OpenCV` `MediaPipe` `YOLOv8` `Socket.IO`
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NivinLouis/unbound-yodha)
+
+---
+
+### 🌊 Dam Water Level Monitor
+**Computer Vision · IoT**
+
+Reads dam water level gauges in real-time using an ESP32 camera feed and OCR — no manual observation needed. Python backend processes the live video stream, extracts digit readings, and logs history. A practical CV-meets-IoT project with real safety applications.
+
+`Python` `OpenCV` `OCR` `ESP32` `Flask`
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NivinLouis/dam-water-level)
+
+---
+
+### 🗂️ CertiVault KTU
+**Student Certificate Management · College Tool**
+
+Integrates with your college's Google Drive to give students a secure place to store certificates and educators instant access for evaluation and grading. Built for KTU-affiliated institutions.
+
+`Python` `HTML` `CSS` `Google Drive API`
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NivinLouis/CertiVault_KTU)
+
+---
+
+### 📄 PDF Screenshoter
+**Gemini-Powered PDF-to-Image Tool**
+
+Built with Google AI Studio — converts PDF pages into clean images you can copy-paste directly into Notion, note-taking apps, or presentations. Solves the small but very real annoyance of extracting PDF visuals without losing quality.
+
+`TypeScript` `React` `Gemini API` `Vite`
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NivinLouis/pdf_screenshoter)
+
+---
+
+### ✏️ PromptX
+**Prompt Engineering Tool**
+
+A tool focused on prompt engineering workflows — helping developers craft, test, and refine LLM prompts more effectively.
+
+`Next.js` `LLMs` `Prompt Engineering`
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NivinLouis/PromptX)
+
+---
+
+### 🔔 OnDotNext
+**Next.js Utility / Notification Tool**
+
+A Next.js-based project exploring real-time or scheduled notification/update delivery — built to scratch a personal itch with clean architecture.
+
+`Next.js` `TypeScript`
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NivinLouis/OnDotNext)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
