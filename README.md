@@ -228,21 +228,21 @@ Built with Google AI Studio — converts PDF pages into clean images you can cop
 
 ---
 
-### ✏️ PromptX
-**Prompt Engineering Tool**
+### 🎨 PromptX
+**College Techfest Official Website**
 
-A tool focused on prompt engineering workflows — helping developers craft, test, and refine LLM prompts more effectively.
+The official website for our college techfest — design-first, visually bold, and built to make an impression. Every pixel was intentional. I was the sole developer, responsible for the full design and implementation.
 
-`Next.js` `LLMs` `Prompt Engineering`
+`Next.js` `TypeScript` `Tailwind CSS`
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NivinLouis/PromptX)
 
 ---
 
-### 🔔 OnDotNext
-**Next.js Utility / Notification Tool**
+### 📅 OnDotNext
+**Attendance Tracker — Used by VAST Students**
 
-A Next.js-based project exploring real-time or scheduled notification/update delivery — built to scratch a personal itch with clean architecture.
+The attendance tracking app actively used by students of Vidya Academy of Science & Technology. Helps students monitor their attendance percentage, stay ahead of shortages, and plan their days better. A real product with real users on campus.
 
 `Next.js` `TypeScript`
 
