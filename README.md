@@ -1,13 +1,13 @@
-<!-- SEO Keywords: Nivin Louis, Nivin P Louis, Flutter Developer, AI ML Engineer, Python Developer, Web Developer Kerala, VAST Thrissur, AI student India, LLM developer, Next.js developer -->
+<!-- SEO Keywords: Nivin P Louis, Nivin Louis, Flutter Developer, AI ML Engineer, Python Developer, Web Developer Kerala, VAST Thrissur, AI student India, LLM developer, Next.js developer -->
 
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nivin%20Louis&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=The%20closer%20you%20look%2C%20the%20lesser%20you%20see&descAlignY=60&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Nivin%20P%20Louis&fontSize=60&fontColor=ffffff&fontAlignY=45&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=AI+%26+ML+Engineering+Student+%F0%9F%A7%A0;LLM+%26+Generative+AI+Builder+%F0%9F%A4%96;Python+%7C+JavaScript+%7C+TypeScript+Dev+%F0%9F%90%8D;Building+Tools+That+Actually+Matter+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=AI+%26+ML+Engineering+Student+%F0%9F%A7%A0;Next.js+%2B+LLM+Builder+%F0%9F%9A%80;Shipping+ideas+before+they%27re+ready+%E2%9A%A1;Vibe+Coder.+Real+Problems.+Actual+Fixes.+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -40,37 +40,17 @@
 
 ## 🧠 About Me
 
-```python
-class NivinLouis:
-    def __init__(self):
-        self.name        = "Nivin P Louis"
-        self.location    = "Thrissur, Kerala, India 🇮🇳"
-        self.education   = "B.Tech in AI & ML — Vidya Academy of Science & Technology"
-        self.status      = "Actively seeking internships 👀"
-        self.philosophy  = "The closer you look, the lesser you see."
+👋 Hi, I'm **Nivin P Louis** — an AI & ML engineering student at **Vidya Academy of Science & Technology, Thrissur, Kerala**.
 
-    @property
-    def currently_doing(self):
-        return [
-            "Building AI-powered tools with LLMs & RAG pipelines",
-            "Exploring Generative AI & Prompt Engineering",
-            "Writing about tech on Medium & Dev.to",
-            "Contributing to real-world civic & social-impact projects",
-        ]
+I'm the kind of developer who gets an idea at midnight and has a deployed link by morning. I build at the intersection of **AI, LLMs, and Next.js** — fast, opinionated, and with just enough chaos to keep it interesting. Not a fan of over-engineering. Big fan of things that actually work.
 
-    @property
-    def tech_stack(self):
-        return {
-            "ai_ml"    : ["Python", "LLMs", "RAG", "Gemini AI", "Embeddings"],
-            "frontend" : ["Next.js", "React", "TypeScript", "JavaScript", "Tailwind CSS"],
-            "backend"  : ["Python (Flask)", "Node.js", "REST APIs"],
-            "mobile"   : ["Flutter", "Dart"],
-            "tools"    : ["Git", "Vercel", "Render", "VS Code"],
-        }
-
-    def open_to(self):
-        return "Internships · Collaborations · Open-source Projects"
-```
+- 🎓 B.Tech in Artificial Intelligence & Machine Learning — VAST, Thrissur
+- ⚡ Primary stack: **Next.js · Python · LLMs · RAG**
+- 🌐 Also dabble in Flutter for mobile — when the idea demands it
+- ✍️ Writing about tech on [Medium](https://medium.com/@nivinlouis123) & [Dev.to](https://dev.to/nivin_louis_745528b3e477b)
+- 🌍 Based in Kerala, India 🇮🇳
+- 📬 Actively seeking **internship opportunities** in AI/ML or Web Development
+- 🤝 Open to collabs, open-source, and conversations that go somewhere
 
 ---
 
@@ -78,33 +58,27 @@ class NivinLouis:
 
 <div align="center">
 
-**AI / ML / LLMs**
+**What I primarily ship with**
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**AI / LLMs / Data**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Web Development**
+**Also in the toolbox**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**Mobile**
-
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-**Tools & Platforms**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
